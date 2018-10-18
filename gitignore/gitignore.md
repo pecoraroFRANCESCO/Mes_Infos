@@ -9,3 +9,4 @@ $ git config --global core.excludesfile ~/.gitignore
 $ echo *.DS_Store >> ~/.gitignore
 
 ``` 
+SOURCE: https://www.jeffgeerling.com/blogs/jeff-geerling/stop-letting-dsstore-slow-you
