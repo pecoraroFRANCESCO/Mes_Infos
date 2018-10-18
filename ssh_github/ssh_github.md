@@ -19,9 +19,9 @@ Pbv7kOdJ/MTyBlWXFCR+HAo3FXRitBqxiX1nKhXpHAZsMciLq8V6RjsNAQwdsdMFvSlVK/7XA
 t3FaoJoAsncM1Q9x5+3V0Ww68/eIFmb1zuUFljQJKprrX88XypNDvjYNby6vw/Pb0rwert/En
 mZ+AW4OZPnTPI89ZPmVMLuayrD2cE86Z/il8b+gw3r3+1nKatmIkjn2so1d01QraTlMqVSsbx
 NrRFi9wrf+M7Q== schacon@agadorlaptop.local
-``
+```
 _Pour un tutoriel plus approfondi sur la création de clé SSH sur différents systèmes d'exploitation, référez-vous au guide GitHub sur les clés SSH à http://github.com/guides/providing-your-ssh-key._
 
 SOURCE: [https://git-scm.com/book/fr/v1/Git-sur-le-serveur-Génération-des-clés-publiques-SSH](https://git-scm.com/book/fr/v1/Git-sur-le-serveur-Génération-des-clés-publiques-SSH)
 
-[google](https://www.google.be)
+
