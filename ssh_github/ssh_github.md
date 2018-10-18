@@ -24,3 +24,4 @@ _Pour un tutoriel plus approfondi sur la création de clé SSH sur différents s
 
 SOURCE: [https://git-scm.com/book/fr/v1/Git-sur-le-serveur-Génération-des-clés-publiques-SSH](https://git-scm.com/book/fr/v1/Git-sur-le-serveur-Génération-des-clés-publiques-SSH)
 
+[google](https://www.google.be)
