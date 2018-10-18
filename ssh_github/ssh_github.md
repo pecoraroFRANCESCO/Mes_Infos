@@ -22,5 +22,5 @@ NrRFi9wrf+M7Q== schacon@agadorlaptop.local
 ``
 _Pour un tutoriel plus approfondi sur la création de clé SSH sur différents systèmes d'exploitation, référez-vous au guide GitHub sur les clés SSH à http://github.com/guides/providing-your-ssh-key._
 
-SOURCE: <https://git-scm.com/book/fr/v1/Git-sur-le-serveur-G%C3%A9n%C3%A9ration-des-cl%C3%A9s-publiques-SSH>
+SOURCE: (https://git-scm.com/book/fr/v1/Git-sur-le-serveur-G%C3%A9n%C3%A9ration-des-cl%C3%A9s-publiques-SSH)
 
